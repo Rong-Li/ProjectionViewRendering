@@ -1,4 +1,4 @@
-Some methods in SimpInterpreter need to be made static so ObjReader can use them.
+Some methods in SimpInterpreter need to be made static. ObjReader can use those methods.
 
 
 Some code to add to SimpInterpreter:
